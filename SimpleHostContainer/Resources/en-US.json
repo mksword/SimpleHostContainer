@@ -1,0 +1,8 @@
+﻿{
+    "Culture": "en-US",
+    "Texts": {
+        "InvalidServiceType": "Invalid Service Type[{0}]!",
+        "InvalidSetupInfoType": "Invalid Setup info type[{0}]!",
+        "OneSetupInfoForEveryAssembly": "Every assembly can have only one Setup info type!"
+    }
+}

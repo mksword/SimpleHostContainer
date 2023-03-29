@@ -1,0 +1,8 @@
+﻿{
+    "Culture": "zh-CN",
+    "Texts": {
+        "InvalidServiceType": "非法的类型【{0}】",
+        "InvalidSetupInfoType": "非法的安装信息类型【{0}】",
+        "OneSetupInfoForEveryAssembly": "每个程序集只能有一个安装信息类！"
+    }
+}
