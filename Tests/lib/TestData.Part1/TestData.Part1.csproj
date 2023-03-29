@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tests\lib\TestData.Part1.Share\TestData.Part1.Share.csproj" />
+    <ProjectReference Include="..\TestData.Part1.Share\TestData.Part1.Share.csproj" />
   </ItemGroup>
 
 </Project>
