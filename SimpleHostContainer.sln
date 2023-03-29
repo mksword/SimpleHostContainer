@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestData.Part1", "Tests\lib
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestData.Part2.Share", "Tests\lib\TestData.Part2.Share\TestData.Part2.Share.csproj", "{528A6470-80AF-4122-BB3F-B605953B2194}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestData.Part2", "Tests\lib\TestData.Part2\TestData.Part2.csproj", "{C7E3AC32-E7A2-4ED9-8AAB-553BD76DADCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{528A6470-80AF-4122-BB3F-B605953B2194}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{528A6470-80AF-4122-BB3F-B605953B2194}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{528A6470-80AF-4122-BB3F-B605953B2194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E3AC32-E7A2-4ED9-8AAB-553BD76DADCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E3AC32-E7A2-4ED9-8AAB-553BD76DADCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E3AC32-E7A2-4ED9-8AAB-553BD76DADCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E3AC32-E7A2-4ED9-8AAB-553BD76DADCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +61,7 @@ Global
 		{A821C593-A57F-46B9-9DB0-B4530D8CD9A0} = {53923FA4-AD39-44E2-9C21-29A93E8FD14B}
 		{60980A2B-B53F-49E7-A238-5681F4D7F296} = {53923FA4-AD39-44E2-9C21-29A93E8FD14B}
 		{528A6470-80AF-4122-BB3F-B605953B2194} = {53923FA4-AD39-44E2-9C21-29A93E8FD14B}
+		{C7E3AC32-E7A2-4ED9-8AAB-553BD76DADCA} = {53923FA4-AD39-44E2-9C21-29A93E8FD14B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B446561E-9D2D-4A27-B44C-B26C42983027}
