@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net6.0;net6.0-windows;net7.0;net7.0-windows;net48;net472</TargetFrameworks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tests\lib\TestData.Part1.Share\TestData.Part1.Share.csproj" />
+  </ItemGroup>
+
+</Project>
