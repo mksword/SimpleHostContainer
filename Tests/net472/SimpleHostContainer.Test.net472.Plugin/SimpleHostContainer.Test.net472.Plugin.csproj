@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <EmbeddedResource Include="Resources\Resources.json" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\SimpleHostContainer\SimpleHostContainer.csproj">
