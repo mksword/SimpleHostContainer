@@ -7,6 +7,8 @@ param(
     $Platforms
 )
 
+$ProjectDir = [System.IO.Path]::GetDirectoryName($ProjectDir)
+
 function CombinPath {
     param(
         [string[]]
